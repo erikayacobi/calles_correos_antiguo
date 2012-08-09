@@ -1,0 +1,4 @@
+name = calles_correos
+description = "modulo codigos postales textfield autocompletar"
+core = 6.x
+package = "Mis Modulos"
